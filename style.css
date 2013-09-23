@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+}
+
+#button {
+	background: black;
+	color: white;
+	font-size: 70px;
+	padding: 10px 150px;
+}
+
+.img_all {
+	border: outset 5px yellow;
+	padding: 10px 10px;
+	margin: 10px 10px;
+}
+
+#error_code {
+	width: 15%;
+	margin-left: 40%;
+	border: outset 10px gray;
+}
+#VK {
+	width: 35%;
+	margin: 0 auto;
+}
